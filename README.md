@@ -15,7 +15,7 @@ A tool to analyze and visualize financial data (stocks, ETFs, crypto) using Yaho
 
 ## Installation
 1. Clone the repo:
-```bash
+```
 git clone https://github.com/hanbee-Y/financial-dashboard.git
 cd financial-dashboard
 ```
