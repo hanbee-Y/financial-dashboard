@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from analysis import indicators  
 import pandas as pd
 
-st.title("📈 Financial Dashboard")
+st.title("Financial Dashboard")
 
 
 tickers = st.text_input("Enter ticker(s), separated by comma", "AAPL,TSLA")
